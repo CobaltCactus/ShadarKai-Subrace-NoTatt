@@ -65,7 +65,7 @@
         <field name="FSName" type="StringTableFieldDefinition" value="Human_Netherese" />
         <field name="Level" type="ByteTableFieldDefinition" value="1" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
-        <field name="PassivesAdded" type="StringTableFieldDefinition" value="UnlockedRavenPointsLevel1;ShadarKai_TrancePoints;RavenBlessing;ShadarKai_Immunity;Darkvision;ShadarKai_Perception;ShadarKai_Winterkin;ShadarKai_NecroResist" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="UnlockedRavenPointsLevel1;ShadarKai_TrancePoints;RavenBlessing;ShadarKai_Immunity;Darkvision;ShadarKai_Perception;ShadarKai_Winterkin;ShadarKai_NecroResist;RavenCompanion" />
         <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(TrancePoint,2,0)" />
         <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(ebeddea9-f7ff-45af-b056-f9ff526df60f);" />
       </fields>
@@ -112,7 +112,7 @@
         <field name="FSName" type="StringTableFieldDefinition" value="Elf_ShadarKai" />
         <field name="Level" type="ByteTableFieldDefinition" value="1" />
         <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
-        <field name="PassivesAdded" type="StringTableFieldDefinition" value="UnlockedRavenPointsLevel1;ShadarKai_TrancePoints;RavenBlessing;ShadarKai_Immunity;ShadarKai_Perception;ShadarKai_NecroResist;" />
+        <field name="PassivesAdded" type="StringTableFieldDefinition" value="UnlockedRavenPointsLevel1;ShadarKai_TrancePoints;RavenBlessing;ShadarKai_Immunity;ShadarKai_Perception;ShadarKai_NecroResist;RavenCompanion" />
         <field name="Selectors" type="StringTableFieldDefinition" value="AddSpells(ebeddea9-f7ff-45af-b056-f9ff526df60f);" />
       </fields>
     </stat_object>

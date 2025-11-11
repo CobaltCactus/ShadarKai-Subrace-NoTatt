@@ -80,3 +80,10 @@ data "Description" "h7bb46a18gf287g8fd8gc410gc94137a52294;1"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockSpell(Target_Blessing_of_the_Raven_Queen_2);"
 
+new entry "RavenCompanion"
+type "PassiveData"
+data "DisplayName" "hd71d0e82g55adgdb18g34e3g9b58cc1ff4a4;1"
+data "Description" "h3ac189a5g4d6ag348ag1769g97dc148ce339;1"
+data "Properties" "Highlighted"
+data "Boosts" "UnlockSpell(Target_RavenCompanion);"
+
